@@ -32,9 +32,13 @@ Eu continuo aprendendo sobre
  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) -->
 
 
+
 ## ✨ GitHub Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ansderson122&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansderson122&layout=compact&langs_count=6&theme=github_dark)
+<div style="display: flex; gap: 10px;">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ansderson122&show_icons=true&theme=github_dark" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansderson122&layout=compact&langs_count=6&theme=github_dark" />
+</div>
+
 
 ## 📫 Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julyanderson-alves-cavalcanti-de-lima-832240b4/)
